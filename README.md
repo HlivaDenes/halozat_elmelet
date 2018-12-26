@@ -1,6 +1,6 @@
 # Számítógép szerelő hálózati ismeretek elmélet
 ## Háromévfolyamos képzés 205 óra
-##Első év 72 óra
+## Első év 72 óra
 
         5.3. Témakörök
             5.3.1. Hálózati protokollok és kommunikáció 	24 óra/24 óra
