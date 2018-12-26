@@ -1,6 +1,6 @@
-# Számítógép szerelő hálózati ismeretek elmélet
-## Háromévfolyamos képzés 205 óra
-## Első év 72 óra
+# Hálózati ismeretek elmélet, számítógép szerelő
+### Háromévfolyamos képzés: 205 óra
+## Első év: 72 óra
 
         5.3. Témakörök
             5.3.1. Hálózati protokollok és kommunikáció 	24 óra/24 óra
@@ -14,6 +14,7 @@
 1. Szabványosítási szervezetek.
 1. Hálózati rétegmodellek: OSI és TCP/IP modell.
 1. Adatbeágyazás.
+<br>
 
             5.3.2. Átviteli közegek és fizikai továbbítási módszerek	48 óra/46 óra
 1. Fizikai réteg funkciói, eszközei.
@@ -26,6 +27,7 @@
 1. Párhuzamos és soros adatátvitel.
 1. Szinkron- és aszinkron kommunikáció.
 1. Multiplexelés fogalma és típusai. 
+<br>
 
             5.3.3. Helyi hálózatok és második rétegbeli technológiák	44 óra/42 óra
 1. Adatkapcsolati réteg funkciói, eszközei.
@@ -37,6 +39,8 @@
 1. Ethernet keretformátuma.
 1. Kapcsolók működési elve kerettovábbítási módszerek.
 1. PPP protokoll és tulajdonságai, PPPoE.
+<br>
+
             5.3.4. Hálózati réteg	42 óra/42 óra
 1. Hálózati réteg fogalma, eszközei.
 1. Logikai címzés.
@@ -48,6 +52,7 @@
 1. IPv6 címzés szükségessége, IPv6 címek típusai.
 1. Állapotmentes címkonfiguráció (SLAAC), EUI-64 módszer.
 1. ICMP protokoll.
+<br>
 
             5.3.5. Magasabb szintű rétegek	19 óra/19 óra
 1. Szállítási réteg feladatai.
@@ -65,7 +70,7 @@
 1. HTTP és HTTPS, az URL fogalma.
 1. Távoli felügyeleti protokollok: SSH, Telnet és RDP.
 1. FTP (File Transfer Protocol).
-
+<br>
 
             5.3.6. Vezeték nélküli hálózatok	28 óra/28 óra
 1. Vezeték nélküli adatátviteli módszerek.
