@@ -83,3 +83,62 @@
 1. Vezeték nélküli hálózatok biztonsági kérdései.
 1. Vezeték nélküli hozzáférés korlátozásának módszerei.
 1. Hitelesítési és titkosítási módszerek.
+
+
+
+#### SZAKMAI ISMERETEK
+1. Hálózati alapfogalmak
+
+1. Hálózati szerepek
+
+1. Hálózati architektúrák
+
+1. Fizikai- és logikai topológiák
+
+1. Hálózati eszközök, integrált szolgáltatású eszközök
+
+1. Protokollok, szabványosítás
+
+1. OSI és TCP/IP modell, adatbeágyazás
+
+1. Átviteli közegek
+
+1. Strukturált kábelezés, kábelezési szabványok
+
+1. LAN/WAN technológiák, szabványok
+
+1. Vezeték nélküli technológiák, szabványok
+
+1. Közeg-hozzáférési módszerek
+
+1. Fizikai- és logikai címzés
+
+1. IP címzés, címosztályok
+
+1. Címzési sémák (unicast, multicast, broadcast)
+
+1. Nyilvános és publikus címek, NAT
+
+1. Internet szolgáltatások típusai
+
+1. Hálózati szolgáltatások
+
+1. Jogosultságok
+
+1. Hálózati hibaelhárítási stratégiák, diagnosztikai programok
+
+1. Hálózatbiztonsági technológiák
+
+1. Angol nyelvű szakmai kifejezések
+
+1. Munka-, baleset-, tűz- és környezetvédelmi előírások
+
+
+#### SZEMÉLYES KOMPETENCIÁK
+1. Precizitás
+
+#### MÓDSZERKOMPETENCIÁK
+1. Logikus gondolkodás
+
+1. Áttekintő képesség
+
